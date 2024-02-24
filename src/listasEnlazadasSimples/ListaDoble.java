@@ -22,8 +22,7 @@ public class ListaDoble {
 
 	/**
 	 * Consulta si la lista esta vacia.
-	 * 
-	 * @return true si el nodo inicio, no apunta a otro nodo.
+	 * @return true o false
 	 */
 	public boolean esVacia() {
 		if (inicio == null) {

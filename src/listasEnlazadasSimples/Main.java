@@ -1,6 +1,7 @@
 package listasEnlazadasSimples;
 
 import javax.swing.*;
+/**@author Jenny**/
 
 public class Main {
 
